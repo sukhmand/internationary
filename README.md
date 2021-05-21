@@ -1,7 +1,7 @@
 # Internationary 
 
 Internationary is a one stop informational website for international students at the University of Washington to help ease their transition at the university without
-getting confused. The website provide information and helpful resources for four central topics - Finance, Housing, Transportation, and Healthcare. 
+getting confused. The website provides information and helpful resources for four central topics - Finance, Housing, Transportation, and Healthcare. 
 
 ## Purpose 
 
@@ -18,7 +18,7 @@ HTML, CSS
 
 ## Research 
 
-To better identify the problem we conducted user research through surveys and interviews with international students. Literature review was done to better understand the 
+To better identify the problem, we conducted user research through surveys and interviews with international students. Literature review was done to better understand the 
 issues faced and market research was done to identify any existing solutions. 
 
 We conducted a survey for international students where the central question we asked were - 
@@ -40,7 +40,7 @@ research, we decided to work on the four topics - finance, housing, transportati
 
 A lot of research can be conducted on our project. Future teams can conduct research on indirect stakeholders such as the University's International Student Services Office and 
 College Counsellors. Our research reported that issues such as job hunting and visa restrictions are also of concern to international students so deeper research can be conducted
-ince we plan on expanding our website to other UW Campuses and in the future to other colleges with high number of international students, there is great scope for future research.
+Since we plan on expanding our website to other UW Campuses and in the future to other colleges with high number of international students, there is great scope for future research.
 
 ## Design 
 
